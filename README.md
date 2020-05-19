@@ -1,0 +1,2 @@
+# szoftverteszteles_beadando
+Beadandó project Szoftvertesztelés órára
